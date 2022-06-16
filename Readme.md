@@ -1,0 +1,1 @@
+ Simple and comprehensive tutorials on Jestson Nano The goal of this repository is to provide simple and comprehensive tutorials for Jetson Nano, while maintaining simplicity of the code. All the tutorials includes detailed explanation (written in Notebook .ipynb) format and source code (.py format) 
